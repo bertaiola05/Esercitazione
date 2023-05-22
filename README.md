@@ -27,4 +27,4 @@ seguire i seguenti passaggi:
 ![comandi7](https://github.com/bertaiola05/Esercitazione/assets/129390397/085918cb-82f5-4f3e-bd96-1110fd9b1a26)
 
 
-git push https://<username>:<token>@github.com/<username>/<reponame>.git
+#git push https://<username>:<token>@github.com/<username>/<reponame>.git
