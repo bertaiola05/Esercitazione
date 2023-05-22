@@ -26,3 +26,9 @@ seguire i seguenti passaggi:
 ![comandi6](https://github.com/bertaiola05/Esercitazione/assets/129390397/3088188f-1ff6-4ef5-a5c7-b182c681c26c)
 ![comandi7](https://github.com/bertaiola05/Esercitazione/assets/129390397/085918cb-82f5-4f3e-bd96-1110fd9b1a26)
 
+--> per aggiornare il README.md e basta comandi4
+![comandi4](https://github.com/bertaiola05/Esercitazione/assets/129390397/258e372c-0240-4796-b843-444e0b39fc7b)
+--> per aggiornare tutto comandi5
+![comandi5](https://github.com/bertaiola05/Esercitazione/assets/129390397/8feb775b-fbdd-48ee-b7f5-0d354aa04140)
+# inserire immagini nel readme
+![comandi6](https://github.com/bertaiola05/Esercitazione/assets/129390397/f9ec582b-2176-4147-90af-cc8ba60800c3)
