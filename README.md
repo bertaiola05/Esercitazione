@@ -9,10 +9,3 @@ Inserire un nuovo noleggio verificando che il veicolo non sia impegnato. Il cost
 Data una targa calcolare il totale in euro dei noleggi
 Dato un codice fiscale calcolare il totale in euro dei noleggi
 Ricavare il totale in euro dei noleggi raggruppato per auto.
-![comandi1](https://github.com/bertaiola05/Esercitazione/assets/129390397/a82cf750-89a6-4c5a-be12-88048c43021a)
-![comandi2](https://github.com/bertaiola05/Esercitazione/assets/129390397/4e41a800-5c2a-48c0-8b59-4eceea2b9ae3)
-![comandi3](https://github.com/bertaiola05/Esercitazione/assets/129390397/eb03edaa-5384-4957-bd5e-4d67a008edef)
-![comandi4](https://github.com/bertaiola05/Esercitazione/assets/129390397/9c4d9944-399b-4d49-8437-63e7af67dbeb)
-![comandi5](https://github.com/bertaiola05/Esercitazione/assets/129390397/14d6d418-f8d8-49d9-9567-b36ff76b90f7)
-![comandi6](https://github.com/bertaiola05/Esercitazione/assets/129390397/8edeeda4-8a02-42ae-9bfa-49add19cafdf)
-![comandi7](https://github.com/bertaiola05/Esercitazione/assets/129390397/a65aff2f-96a9-459d-8aa3-252ae98992dd)
