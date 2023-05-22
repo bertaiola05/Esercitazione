@@ -15,6 +15,9 @@ creare il repository
 scaricare la bash da qui https://github.com/git-for-windows/git/releases/
 <img width="515" alt="PortableGit" src="https://github.com/bertaiola05/Esercitazione/assets/129390397/b9acb452-9366-48da-b8bf-9696a7894d77">
 seguire i seguenti passaggi:
+
+
+
 ![comandi1](https://github.com/bertaiola05/Esercitazione/assets/129390397/f9cbd269-4bd6-4424-bbef-2ee3c8dbf1b1)
 ![comandi2](https://github.com/bertaiola05/Esercitazione/assets/129390397/ba9db2da-9d92-4265-b296-538ce45a96c0)
 ![comandi3](https://github.com/bertaiola05/Esercitazione/assets/129390397/9b3e7857-67ca-45f4-b6c4-1cd292432508)
@@ -22,3 +25,6 @@ seguire i seguenti passaggi:
 ![comandi5](https://github.com/bertaiola05/Esercitazione/assets/129390397/49c3b7be-8108-4216-91a5-144846daa71b)
 ![comandi6](https://github.com/bertaiola05/Esercitazione/assets/129390397/3088188f-1ff6-4ef5-a5c7-b182c681c26c)
 ![comandi7](https://github.com/bertaiola05/Esercitazione/assets/129390397/085918cb-82f5-4f3e-bd96-1110fd9b1a26)
+
+
+git push https://<username>:<token>@github.com/<username>/<reponame>.git
