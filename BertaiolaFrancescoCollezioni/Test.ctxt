@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Test
+comment0.text=\r\n\ gestione\ dei\ clienti\ di\ una\ stazione\ di\ rifornimento\ -->priority\ queue\ perch\u00E8\ si\ va\ in\ ordine\ di\ come\ si\ arriva\ quindi\ serve\ una\ FIFO\ \r\n\ libri\ di\ una\ bibblioteca\ -->hash\ map\ perch\u00E8\ facilita\ la\ ricerca\ e\ l'aggiunta\ di\ un\ prodotto\ \r\n\ gestione\ dei\ prodotti\ in\ un\ magazzino\ -->\ hashmap\ perch\u00E8\ facilita\ la\ ricerca\ e\ l'aggiunta\ di\ un\ prodotto\ \r\n\ hashmap\ -->\ gestione\ di\ un\ noleggio\ di\ bicilette\r\n\ albero\ bianrio-->\ ricerca\ all\ interno\ di\ qualcosa\ che\ ha\ pochissime\ agigunte\ dato\ che\ \u00E8\ difficile\ ri\ blianciare\ sempre\ l'albero\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

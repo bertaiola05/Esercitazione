@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Furgone
+comment1.params=targa\ modello\ tariffa\ capacitaCarico
+comment1.target=Furgone(java.lang.String,\ java.lang.String,\ double,\ double)
+comment2.params=
+comment2.target=Furgone()
+comment3.params=
+comment3.target=double\ getCarico()
+comment4.params=carico
+comment4.target=void\ setCarico(double)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

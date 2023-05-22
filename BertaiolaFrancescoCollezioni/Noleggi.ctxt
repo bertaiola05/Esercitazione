@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Noleggi
+comment1.params=
+comment1.target=Noleggi()
+comment10.params=
+comment10.target=java.lang.String\ totalePerAuto()
+comment2.params=n
+comment2.target=boolean\ cercaVeicolo(Noleggio)
+comment3.params=n
+comment3.target=void\ aggiungi(Noleggio)
+comment4.params=
+comment4.target=java.lang.String\ visualizzaNoleggi()
+comment5.params=n
+comment5.target=java.lang.String\ visualizzaSchedaSpecifica(Noleggio)
+comment6.params=t
+comment6.target=Noleggio\ cercaVeicoloTarga(java.lang.String)
+comment7.params=targa
+comment7.target=java.lang.String\ caloloDataTarga(java.lang.String)
+comment8.params=cf
+comment8.target=Noleggio\ cercaVeicoloCf(java.lang.String)
+comment9.params=cf
+comment9.target=java.lang.String\ caloloDatoCodiceFiscale(java.lang.String)
+numComments=11

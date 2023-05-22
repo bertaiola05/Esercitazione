@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Automobile
+comment1.params=targa\ modello\ tariffa\ posti
+comment1.target=Automobile(java.lang.String,\ java.lang.String,\ double,\ int)
+comment2.params=
+comment2.target=Automobile()
+comment3.params=
+comment3.target=int\ getPosti()
+comment4.params=posti
+comment4.target=void\ setPosti(int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
